@@ -24,4 +24,4 @@ age = 20
 </br>
 
 ### Stats ⚡️
-![Github Stats](https://readmestats.vercel.app/api?username=eyepatch72&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
