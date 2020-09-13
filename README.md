@@ -27,3 +27,8 @@ age = 20
 
 ### Stats ⚡️
 ![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+
+### Donations (Optional) 💵
+If you like my projects then consider making a small donation by clicking below button
+<br/>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
