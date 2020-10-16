@@ -9,6 +9,8 @@ who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
 age = 20
 ```
 
+<a href="https://sourcerer.io/henry-richard7"><img src="https://img.shields.io/badge/Python-58%20commits-orange.svg" alt=""></a>
+
 ### Skills 👨‍💻
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
