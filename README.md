@@ -31,7 +31,8 @@ age = 20
 ### Stats ⚡️
 ![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=henry-richard7&theme=gruvbox)
+### Trophy 🏆
+![trophy](https://github-profile-trophy.vercel.app/?username=henry-richard7&theme=gruvbox)
 
 ### Donations (Optional) 💵
 If you like my projects then consider making a small donation by clicking below button
