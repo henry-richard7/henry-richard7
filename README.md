@@ -29,7 +29,7 @@ age = 21
 </br>
 
 ### My projects
-* <img align="left" alt="Music" width="24px" src="https://img.icons8.com/color/music" /> [MusicStation](http://henryrics12.0hi.me/Jiosaavn/index.php?lang=english}) --> Listen to songs online for free ad-free
+* <img align="left" alt="Music" width="24px" src="https://img.icons8.com/color/music" /> [MusicStation](http://henryrics12.0hi.me/Jiosaavn/index.php?lang=english) --> Listen to songs online for free ad-free
 * <img align="left" alt="Movie stream" width="24px" src="https://img.icons8.com/color/movie" /> [Movie-Time](http://henryrics12.0hi.me/Movie-Time/) --> A windows application that scrapes and streams movies and tv shows from other streaming sites written in C#
 
 ### Stats ⚡️
