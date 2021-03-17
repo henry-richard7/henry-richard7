@@ -30,7 +30,8 @@ age = 21
 
 ### My projects
 * <img align="left" alt="Music" width="24px" src="https://img.icons8.com/color/music" /> [MusicStation](https://music-station-flask-app.vercel.app/home?lang=english) --> Listen to songs online for free ad-free
-* <img align="left" alt="Movie stream" width="24px" src="https://img.icons8.com/color/movie" /> [Mega Movies](https://henry-richard-2k.ml/Projects/Mega%20Movies/) --> A windows app that scrapes and streams movies and tv series without ads designed using C# Also available for android !
+* <img align="left" alt="Movie stream" width="24px" src="https://img.icons8.com/color/movie" /> [Mega Movies](https://www.henry-richard2k.ml/Projects/Mega%20Movies/) --> A windows app that scrapes and streams movies and tv series without ads designed using C# Also available for android !
+* <img align="left" alt="WIFI Mac" width="24px" src="https://img.icons8.com/doodle/2x/user-location.png" /> [MAC to Location](https://www.henry-richard2k.ml/Projects/Mac-Location/) --> A web app that gives location of the given WI-FI BSSID using apple location api.
 
 ### Stats ⚡️
 ![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
