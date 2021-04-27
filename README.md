@@ -33,6 +33,9 @@ age = 21
 * <img align="left" alt="Movie stream" width="24px" src="https://img.icons8.com/color/movie" /> [Mega Movies](https://www.henry-richard2k.ml/Projects/Mega%20Movies/) --> A windows app that scrapes and streams movies and tv series without ads designed using C# Also available for android !
 * <img align="left" alt="WIFI Mac" width="24px" src="https://img.icons8.com/doodle/2x/user-location.png" /> [MAC to Location](https://www.henry-richard2k.ml/Projects/Mac-Location/) --> A web app that gives location of the given WI-FI BSSID using apple location api.
 
+### My Youtube Channel
+https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
+
 ### Stats ⚡️
 ![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
 
