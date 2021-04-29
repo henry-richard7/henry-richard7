@@ -36,6 +36,8 @@ age = 21
 ### My Youtube Channel
 https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 
+[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
 ### Stats ⚡️
 ![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
 
