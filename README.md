@@ -38,6 +38,9 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
+### My Telegram Channel
+[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
+
 ### Stats ⚡️
 ![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
 
