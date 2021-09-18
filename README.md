@@ -9,7 +9,9 @@ who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
 age = 21
 ```
 ### My Website 🌐
-https://henry-richard.ml/
+<h3>
+  https://henry-richard.ml/
+</h3>
 
 ###  👨‍💻 Skills
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
