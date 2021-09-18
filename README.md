@@ -8,8 +8,10 @@ name = "Henry Richard"
 who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
 age = 21
 ```
+### My Website 🌐
+https://henry-richard.ml/
 
-### Skills 👨‍💻
+###  👨‍💻 Skills
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="Flask" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/flask.svg" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
@@ -28,10 +30,13 @@ age = 21
 </br>
 </br>
 
-### My projects
-* <img align="left" alt="Music" width="24px" src="https://img.icons8.com/color/music" /> [MusicStation](https://music-station-flask-app.vercel.app/home?lang=english) --> Listen to songs online for free ad-free
-* <img align="left" alt="Movie stream" width="24px" src="https://img.icons8.com/color/movie" /> [Mega Movies](https://www.henry-richard7.ml/2021/04/mega-movies-latest-movies-tv-shows.html) --> A windows app that scrapes and streams movies and tv series without ads designed using C# Also available for android !
-* <img align="left" alt="WIFI Mac" width="24px" src="https://img.icons8.com/doodle/2x/user-location.png" /> [MAC to Location](https://www.henry-richard2k.ml/Projects/Mac-Location/) --> A web app that gives location of the given WI-FI BSSID using apple location api.
+### 🚀 My projects
+* <img align="left" alt="MX Player Clone" width="24px" src="https://img.icons8.com/doodle/480/000000/circled-play.png" /> [MX Player Clone](https://henry-richard.ml/MX-Project/) --> This a clone of https://www.mxplayer.in/
+* <img align="left" alt="Music Station" width="24px" src="https://img.icons8.com/bubbles/480/000000/apple-music.png" /> [Music Station](https://music-station-flask-app.vercel.app/home?lang=tamil) --> Listen to songs for free!
+* <img align="left" alt="Voot Streamer" width="24px" src="https://i2.wp.com/my24hrshop.com/php_assets/uploads/2020/03/voot.png?fit=512%2C512&ssl=1" /> [Voot Streamer](https://henry-richard.ml/VOOT%20Streamer/) --> A web app that can play voot movies and tv shows without login.
+* <img align="left" alt="World Radio" width="24px" src="https://img.icons8.com/doodle/480/000000/boombox.png" /> [World Radio](http://henry-richard-7.0hi.me/World%20Radio/) --> Listen to radio around the world!
+* <img align="left" alt="NSE Tool" width="24px" src="https://seekvectorlogo.com/wp-content/uploads/2019/02/national-stock-exchange-of-india-nse-vector-logo.png" /> [NSE-Tool](https://henry-richard.ml/NSE-Tool/) --> A windows application that gives you realtime live data , Pivot, Resistance and DMA for your selected stocks.
+* <img align="left" alt="Game-Fox The Games News" width="24px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/800/000000/external-fox-autumn-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" /> [Game-Fox The Games News](https://henry-richard.ml/Games-Fox/) --> A website that 
 
 ### My Youtube Channel
 https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
@@ -41,13 +46,13 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 ### My Telegram Channel
 [![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
 
-### Stats ⚡️
+### ⚡️ Stats 
 ![Github Stats](https://readmestats.vercel.app/api?username=henry-richard7&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
 
-### Trophy 🏆
+### 🏆 Trophy 
 ![trophy](https://github-profile-trophy.vercel.app/?username=henry-richard7&theme=gruvbox)
 
-### Donations (Optional) 💵
+### 💵 Donations (Optional) 
 If you like my projects then consider making a small donation by clicking below button
 <br/>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
