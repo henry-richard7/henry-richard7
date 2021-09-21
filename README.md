@@ -38,7 +38,7 @@ age = 21
 * <img align="left" alt="Voot Streamer" width="24px" src="https://i2.wp.com/my24hrshop.com/php_assets/uploads/2020/03/voot.png?fit=512%2C512&ssl=1" /> [Voot Streamer](https://henry-richard.ml/VOOT%20Streamer/) --> A web app that can play voot movies and tv shows without login.
 * <img align="left" alt="World Radio" width="24px" src="https://img.icons8.com/doodle/480/000000/boombox.png" /> [World Radio](http://henry-richard-7.0hi.me/World%20Radio/) --> Listen to radio around the world!
 * <img align="left" alt="NSE Tool" width="24px" src="https://seekvectorlogo.com/wp-content/uploads/2019/02/national-stock-exchange-of-india-nse-vector-logo.png" /> [NSE-Tool](https://henry-richard.ml/NSE-Tool/) --> A windows application that gives you realtime live data , Pivot, Resistance and DMA for your selected stocks.
-* <img align="left" alt="Game-Fox The Games News" width="24px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/800/000000/external-fox-autumn-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" /> [Game-Fox The Games News](https://henry-richard.ml/Games-Fox/) --> A website that 
+* <img align="left" alt="Game-Fox The Games News" width="24px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/800/000000/external-fox-autumn-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" /> [Game-Fox The Games News](https://henry-richard.ml/Games-Fox/) --> A website that shows Upcoming games, Free games and more!.
 
 ### My Youtube Channel
 https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
