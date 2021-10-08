@@ -40,6 +40,9 @@ age = 21
 * <img align="left" alt="NSE Tool" width="24px" src="https://seekvectorlogo.com/wp-content/uploads/2019/02/national-stock-exchange-of-india-nse-vector-logo.png" /> [NSE-Tool](https://henry-richard.ml/NSE-Tool/) --> A windows application that gives you realtime live data , Pivot, Resistance and DMA for your selected stocks.
 * <img align="left" alt="Game-Fox The Games News" width="24px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/800/000000/external-fox-autumn-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" /> [Game-Fox The Games News](https://henry-richard.ml/Games-Fox/) --> A website that shows Upcoming games, Free games and more!.
 
+### My Kodi Repo
+<a href = 'https://henry-richard.ml/Kodi%20Repos/'> <img src='https://img.icons8.com/plasticine/50/000000/kodi.png'> Kodi Repo</a>
+
 ### My Youtube Channel
 https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 
