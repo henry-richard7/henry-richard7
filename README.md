@@ -58,9 +58,5 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 ![trophy](https://github-profile-trophy.vercel.app/?username=henry-richard7&theme=gruvbox)
 
 ### 💵 Donations (Optional) 
-If you like my projects then consider making a small donation by clicking below button
-<br/>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
-
-### Bitcoin Address
-bc1qc6u6qkw9hjttvy3rw6z7saj4sa2scm24dkks3n
+If you like my projects then consider making a small donation
+https://henry-richard7.github.io/Donation-Page/
