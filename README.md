@@ -59,4 +59,5 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 
 ### 💵 Donations (Optional) 
 If you like my projects then consider making a small donation
+<br/>
 https://henry-richard7.github.io/Donation-Page/
