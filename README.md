@@ -58,6 +58,4 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 ![trophy](https://github-profile-trophy.vercel.app/?username=henry-richard7&theme=gruvbox)
 
 ### 💵 Donations (Optional) 
-If you like my projects then consider making a small donation
-<br/>
-https://henry-richard7.github.io/Donation-Page/
+<a href='https://ko-fi.com/N4N4ACMBP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
