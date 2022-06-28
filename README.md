@@ -35,7 +35,6 @@ age = 22
 ### 🚀 My projects
 * <img align="left" alt="MX Player Clone" width="24px" src="https://img.icons8.com/doodle/480/000000/circled-play.png" /> [MX Player Clone](https://henry-richard.ml/MX-Player-Web/) --> This a clone of https://www.mxplayer.in/
 * <img align="left" alt="Music Station" width="24px" src="https://img.icons8.com/bubbles/480/000000/apple-music.png" /> [Music Station](https://music-station-flask-app.vercel.app/home?lang=tamil) --> Listen to songs for free!
-* <img align="left" alt="Voot Streamer" width="24px" src="https://i2.wp.com/my24hrshop.com/php_assets/uploads/2020/03/voot.png?fit=512%2C512&ssl=1" /> [Voot Streamer](https://henry-richard.ml/Voot-Streamer/) --> A web app that can play voot movies and tv shows without login.
 * <img align="left" alt="World Radio" width="24px" src="https://img.icons8.com/doodle/480/000000/boombox.png" /> [World Radio](http://henry-richard.ml/World-Radio/) --> Listen to radio around the world!
 * <img align="left" alt="NSE Tool" width="24px" src="https://seekvectorlogo.com/wp-content/uploads/2019/02/national-stock-exchange-of-india-nse-vector-logo.png" /> [NSE-Tool](https://henry-richard.ml/NSE-Tool-Stocks-Aerial-View/) --> A windows application that gives you realtime live data , Pivot, Resistance and DMA for your selected stocks.
 * <img align="left" alt="Anime Downloader" width="24px" src="https://img.icons8.com/color/200/000000/naruto-sign.png" /> [Anime Downloader](https://henry-richard.ml/Anime-Downloader/) --> A Windows app that allows you .
