@@ -6,7 +6,6 @@
 ```python
 name = "Henry Richard"
 who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
-age = 22
 ```
 ### My Website 🌐
 <h3>
@@ -55,6 +54,7 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 
 ### 🏆 Trophy 
 ![trophy](https://github-profile-trophy.vercel.app/?username=henry-richard7&theme=gruvbox)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Richard7)
 
 ### 💵 Donations (Optional) 
 <a href='https://ko-fi.com/N4N4ACMBP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
