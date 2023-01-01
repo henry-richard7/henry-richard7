@@ -9,7 +9,7 @@ who_i_am = ['Developer','Coder','Engineer','Hacker','Noobie']
 ```
 ### My Website 🌐
 <h3>
-  https://henry-richard.ml/
+  https://henry-richard7.github.io/
 </h3>
 
 ###  👨‍💻 Skills
