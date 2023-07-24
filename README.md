@@ -46,9 +46,6 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
-### My Telegram Channel
-[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/hr_tools)
-
 ### ⚡️ Stats 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=henry-richard7)
 
@@ -56,5 +53,3 @@ https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ
 ![trophy](https://github-profile-trophy.vercel.app/?username=henry-richard7&theme=gruvbox)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Richard7)
 
-### 💵 Donations (Optional) 
-<a href='https://ko-fi.com/N4N4ACMBP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
