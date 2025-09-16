@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/henry-richard7/&title=Profile%20Views)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhenry-richard7%2F&label=Total+Profile+Views&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 ### About Me 🙋🏻‍♂️
 ```python
