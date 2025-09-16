@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Eyepatch72/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/henry-richard7/&title=Profile%20Views)
 
 ### About Me 🙋🏻‍♂️
 ```python
